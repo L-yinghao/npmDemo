@@ -1,0 +1,11 @@
+{
+  "name": "liyinghaodemo",
+  "version": "1.0.0",
+  "description": "study npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Li Yinghao",
+  "license": "ISC"
+}
