@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Li Yinghao",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-yinghao/npmDemo.git"
+  },
   "license": "ISC"
 }
